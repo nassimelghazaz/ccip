@@ -1,0 +1,4 @@
+#EXTM3U
+ 
+#EXTINF:0,480 - Medi1TV (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
